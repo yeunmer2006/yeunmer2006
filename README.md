@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yeunmer2006
-- 👀 I’m interested in Computer Science and CSGO , Genshen .
+- 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning C++ 
 - ⚡ Fun fact: Come from China Xi'an , now I'm studying in SJTU .
 
